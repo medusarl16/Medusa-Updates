@@ -1,6 +1,6 @@
 {
-  "version": "3.9",
-  "installer_url": "",
-  "sha256": "",
-  "notes": "Medusa v3.9 initial release"
+  "version": "3.11",
+  "installer_url": "https://github.com/Medusarl16/Medusa-Updates/releases/download/v3.11/Medusa_Setup_v3.11.exe",
+  "sha256": "d6de13f535fa9a27609667c2cbf186d3a45d7723a8cb2f6ceb9d26fe2749a087",
+  "notes": "Rounded Medusa launcher corners, custom artwork logo, equal-sized window controls, and improved category selector."
 }
