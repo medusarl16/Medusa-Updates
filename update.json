@@ -1,6 +1,6 @@
 {
-  "version": "3.11",
-  "installer_url": "https://github.com/Medusarl16/Medusa-Updates/releases/download/v3.11/Medusa_Setup_v3.11.exe",
-  "sha256": "d6de13f535fa9a27609667c2cbf186d3a45d7723a8cb2f6ceb9d26fe2749a087",
-  "notes": "Rounded Medusa launcher corners, custom artwork logo, equal-sized window controls, and improved category selector."
+  "version": "3.11.1",
+  "installer_url": "https://github.com/Medusarl16/Medusa-Updates/releases/download/v3.11.1/Medusa_Setup_v3.11.1.exe",
+  "sha256": "5c63d6a15da8bca97ebad4da5524363a78db6251b7767f0ba38f286049c79d65",
+  "notes": "Automatic Steam and Epic Games Rocket League folder detection, including custom Steam libraries and drives. No manual CookedPCConsole setup required for normal installations."
 }
